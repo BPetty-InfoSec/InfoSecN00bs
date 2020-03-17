@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Welcome to InfoSec N00bs!
 
-You can use the [editor on GitHub](https://github.com/BPetty-InfoSec/InfoSecN00bs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I honestly don't know how much traction or updates this place will get. The idea for the project came about during the entire Coronavirus pandemic. During that time I was extremely ill (NOT with the disease-of-the-day...we think) and the medication that I was on made it hard for me to concentrate.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever I have difficulty arranging my thoughts, I have a tendency to force myself into collating data. This sometimes jumpstarts my mind, and lets me get things back on track. In this case, I was looking at all of the questions that I have been seeing from people new to the InfoSec community, and put together a small document that might actually be able to help a little bit.
 
-### Markdown
+## Contributions and Process
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As of right now, I am the only contributor to this project. Still, I would love to hear from people! This .pdf was created through LibreOffice Draw, using an ebook (magazine) template from the LibreOffice website. The pictures were replaced with pictures from [Pixabay](https://pixabay.com) that are free for public/commercial use with or without attribution, and the content was dreamed up pretty much from my own head.
 
-```markdown
-Syntax highlighted code block
+That said, if someone wants to contribute to the project, make your own document, whatever, feel free to create one and make a pull request! I just ask that it be kept in the same naming format, for basic neatness purposes. Credit will obviously be given for anyone who submits information, be it a complete document or just a suggestion on where to go from here.
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
+I can be [emailed at bwpetty@protonmail.com](mailto://bwpetty@protonmail.com)
 
-- Bulleted
-- List
+I can be reached on [Twitter](https://www.twitter.com/bpetty_infosec)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BPetty-InfoSec/InfoSecN00bs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Obviously, I am available on [GitHub](https://github.com/BPetty-InfoSec)
